@@ -1,0 +1,95 @@
+---
+booktitle: Proceedings of The 4th Annual Learning for Dynamics and Control Conference
+shortname: L4DC
+year: '2022'
+volume: '168'
+start: 2022-06-23
+end: 2022-06-24
+published: 2022-05-11
+conference_number: '4'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: L4DC-2022
+month: 0
+cycles: false
+bibtex_editor: Firoozi, Roya and Mehr, Negar and Yel, Esen and Antonova, Rika and
+  Bohg, Jeannette and Schwager, Mac and Kochenderfer, Mykel
+editor:
+- given: Roya
+  family: Firoozi
+- given: Negar
+  family: Mehr
+- given: Esen
+  family: Yel
+- given: Rika
+  family: Antonova
+- given: Jeannette
+  family: Bohg
+- given: Mac
+  family: Schwager
+- given: Mykel
+  family: Kochenderfer
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 4th Annual Learning for Dynamics and Control Conference
+    Held in Stanford University, Stanford, CA, USA on 23-24 June 2022
+
+  Published as Volume 168 by the Proceedings of Machine Learning Research on 11 May 2022.
+
+  Volume Edited by:
+    Roya Firoozi
+    Negar Mehr
+    Esen Yel
+    Rika Antonova
+    Jeannette Bohg
+    Mac Schwager
+    Mykel Kochenderfer
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 23--24 Jun
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v168"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v168
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v168
+email: ''
+conference:
+  name: Learning for Dynamics and Control Conference
+  url: https://l4dc.stanford.edu/
+  location: Stanford University, Stanford, CA, USA
+  dates:
+  - 2022-06-23
+  - 2022-06-24
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/home/markus/repos/mlresearch/v168/l4dc22.bib"
+# Site settings
+# Original source:  /home/markus/repos/mlresearch/v168/l4dc22.bib
